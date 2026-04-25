@@ -1,11 +1,11 @@
 <h1>Hi, I'm Dennis! <br/>
-<a href="https://github.com/owojudennis-lab/Cybersecurity-portfolio">Cybersecurity Enthusiast</a>, 
-<a href="#">Aspiring SOC Analyst</a></h1>
+<a>Cybersecurity Enthusiast</a>, 
+<a>Aspiring SOC Analyst</a></h1>
 
 <h2>🛡️ Cybersecurity Projects:</h2>
 
 - <b>Wazuh SIEM Home Lab</b>
-  - <a href="https://github.com/owojudennis-lab/Cybersecurity-portfolio">Wazuh Installation & Setup</a>
+  - <a>Wazuh Installation & Setup</a>
   - Deployed Wazuh manager on Ubuntu Server and connected Windows 10 agent
   - Configured agent communication and resolved version mismatch issues
   - Monitored endpoint logs through Wazuh dashboard
