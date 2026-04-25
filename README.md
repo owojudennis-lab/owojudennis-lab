@@ -56,15 +56,15 @@
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://wa.me/234XXXXXXXXXX">
+<a href="https://wa.me/2349054484175">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://instagram.com/dennisay0">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/YOUR_USERNAME">
+<a href="https://twitter.com/Dennis257072548">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 </p>
