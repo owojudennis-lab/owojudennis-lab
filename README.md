@@ -1,5 +1,5 @@
 <h1>Hi, I'm Dennis 👋</h1>
-<h3>Aspiring SOC Analyst | Cloud Security | Final-Year Computer Engineering Student</h3>
+<h3>SOC Analyst | Cloud Security | Final-Year Computer Engineering Student</h3>
 
 <p>
 I'm a final-year Computer Engineering student (graduating 2026) building hands-on experience
